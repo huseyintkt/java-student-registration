@@ -1,5 +1,10 @@
 package ch.hicoders;
 
+import ch.hicoders.classroom.Classroom;
+import ch.hicoders.student.Student;
+import ch.hicoders.teacher.Specialty;
+import ch.hicoders.teacher.Teacher;
+
 import java.time.LocalDate;
 
 public class Application {

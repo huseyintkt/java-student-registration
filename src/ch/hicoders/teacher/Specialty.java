@@ -1,4 +1,4 @@
-package ch.hicoders;
+package ch.hicoders.teacher;
 
 public enum Specialty {
     MATH, ENGLISH
